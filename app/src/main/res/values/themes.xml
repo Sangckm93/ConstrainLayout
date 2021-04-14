@@ -20,6 +20,9 @@
     </style>
 
     <style name="MyTheme.TextView" parent="MyTheme">
-        <item name="android:textSize">30sp</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/cartoonblocksfont</item>
     </style>
+
 </resources>
